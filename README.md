@@ -1,8 +1,7 @@
 # Python-Bokeh-visualization
  Database visualization using the Bokeh library, written in Python.
 
-The files contained in Jupyter Notatnik contain the database and its analysis. 
-Additionally, after the analysis, a new csv file is generated. 
+The files contained in Jupyter Notebook contain the database analysis. 
 In addition to the analysis, a brief machine learning was included.
 
 File app_my.py contain the code of final application.
